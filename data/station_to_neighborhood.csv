@@ -1,0 +1,956 @@
+station_id,neighborhood
+72,Chelsea and Clinton
+79,Lower Manhattan
+82,Lower Manhattan
+83,East New York and New Lots
+116,Chelsea and Clinton
+120,Bushwick and Williamsburg
+127,Greenwich Village and Soho
+128,Greenwich Village and Soho
+143,Northwest Brooklyn
+146,Greenwich Village and Soho
+150,Lower East Side
+151,Greenwich Village and Soho
+157,Northwest Brooklyn
+161,Lower East Side
+164,Gramercy Park and Murray Hill
+167,Gramercy Park and Murray Hill
+167,Gramercy Park and Murray Hill
+168,Chelsea and Clinton
+173,Chelsea and Clinton
+174,Gramercy Park and Murray Hill
+195,Lower Manhattan
+212,Chelsea and Clinton
+216,Northwest Brooklyn
+217,Northwest Brooklyn
+223,Chelsea and Clinton
+224,Lower Manhattan
+228,Gramercy Park and Murray Hill
+229,Greenwich Village and Soho
+236,Lower East Side
+237,Lower East Side
+238,Greenwich Village and Soho
+239,Northwest Brooklyn
+241,Bushwick and Williamsburg
+242,Central Brooklyn
+243,East New York and New Lots
+243,East New York and New Lots
+244,Northwest Brooklyn
+245,Bushwick and Williamsburg
+247,Greenwich Village and Soho
+248,Greenwich Village and Soho
+249,Greenwich Village and Soho
+250,Greenwich Village and Soho
+251,Greenwich Village and Soho
+251,Greenwich Village and Soho
+252,Chelsea and Clinton
+254,Greenwich Village and Soho
+257,Greenwich Village and Soho
+258,Bushwick and Williamsburg
+259,Lower Manhattan
+260,Lower Manhattan
+261,Northwest Brooklyn
+262,Northwest Brooklyn
+264,Lower Manhattan
+265,Greenwich Village and Soho
+266,Lower East Side
+267,Chelsea and Clinton
+267,Chelsea and Clinton
+268,Greenwich Village and Soho
+270,Central Brooklyn
+274,Bushwick and Williamsburg
+275,Central Brooklyn
+276,Lower Manhattan
+278,Northwest Brooklyn
+279,Lower Manhattan
+280,Lower East Side
+281,Chelsea and Clinton
+284,Greenwich Village and Soho
+285,Lower East Side
+289,Bushwick and Williamsburg
+291,Lower East Side
+293,Lower East Side
+293,Lower East Side
+295,Lower East Side
+296,Lower East Side
+297,Lower East Side
+297,Lower East Side
+301,Lower East Side
+302,Lower East Side
+303,Greenwich Village and Soho
+305,Gramercy Park and Murray Hill
+305,Gramercy Park and Murray Hill
+307,Lower East Side
+308,Lower Manhattan
+309,Tribeca
+310,East New York and New Lots
+311,Lower East Side
+312,Lower East Side
+313,Central Brooklyn
+314,Northwest Brooklyn
+316,Lower East Side
+316,Lower Manhattan
+317,Lower East Side
+319,Lower Manhattan
+320,Greenwich Village and Soho
+321,Northwest Brooklyn
+323,Northwest Brooklyn
+324,Bushwick and Williamsburg
+325,Lower East Side
+326,Lower East Side
+327,Tribeca
+327,Tribeca
+328,Lower Manhattan
+330,Greenwich Village and Soho
+331,Lower East Side
+332,Lower East Side
+334,Chelsea and Clinton
+335,Greenwich Village and Soho
+335,Lower East Side
+336,Lower East Side
+337,Lower Manhattan
+339,Lower East Side
+340,Lower East Side
+341,Lower East Side
+342,Lower East Side
+343,Northwest Brooklyn
+344,Bushwick and Williamsburg
+346,Greenwich Village and Soho
+346,Greenwich Village and Soho
+347,Greenwich Village and Soho
+349,Lower East Side
+350,Lower East Side
+353,Northwest Brooklyn
+354,Northwest Brooklyn
+355,Greenwich Village and Soho
+356,Lower East Side
+357,Lower East Side
+358,Greenwich Village and Soho
+358,Greenwich Village and Soho
+359,Gramercy Park and Murray Hill
+361,Lower East Side
+361,Lower East Side
+362,Chelsea and Clinton
+362,Chelsea and Clinton
+363,Lower Manhattan
+364,Bushwick and Williamsburg
+365,East New York and New Lots
+366,Northwest Brooklyn
+367,Gramercy Park and Murray Hill
+368,Greenwich Village and Soho
+369,Chelsea and Clinton
+372,Flatbush
+373,Northwest Brooklyn
+376,Lower Manhattan
+377,Lower Manhattan
+379,Chelsea and Clinton
+380,Greenwich Village and Soho
+382,Lower East Side
+383,Greenwich Village and Soho
+385,Gramercy Park and Murray Hill
+388,Chelsea and Clinton
+389,East New York and New Lots
+390,Northwest Brooklyn
+391,Northwest Brooklyn
+391,Northwest Brooklyn
+392,Northwest Brooklyn
+393,Lower East Side
+394,Lower East Side
+396,Central Brooklyn
+397,East New York and New Lots
+398,Northwest Brooklyn
+399,Central Brooklyn
+400,Lower East Side
+401,Lower East Side
+401,Lower East Side
+402,Gramercy Park and Murray Hill
+403,Lower East Side
+405,Greenwich Village and Soho
+406,Northwest Brooklyn
+407,Northwest Brooklyn
+408,Lower East Side
+409,Northwest Brooklyn
+410,Lower East Side
+411,Lower East Side
+412,Lower East Side
+414,Northwest Brooklyn
+415,Lower Manhattan
+416,Central Brooklyn
+417,Lower Manhattan
+418,Northwest Brooklyn
+419,Northwest Brooklyn
+420,Central Brooklyn
+421,Central Brooklyn
+422,Chelsea and Clinton
+422,Chelsea and Clinton
+423,Chelsea and Clinton
+426,Tribeca
+427,Lower Manhattan
+432,Lower East Side
+434,Chelsea and Clinton
+435,Chelsea and Clinton
+436,Central Brooklyn
+437,Central Brooklyn
+438,Lower East Side
+439,Lower East Side
+440,Gramercy Park and Murray Hill
+441,Gramercy Park and Murray Hill
+442,Chelsea and Clinton
+445,Lower East Side
+446,Chelsea and Clinton
+447,Chelsea and Clinton
+448,Chelsea and Clinton
+448,Chelsea and Clinton
+450,Chelsea and Clinton
+450,Chelsea and Clinton
+453,Chelsea and Clinton
+453,Chelsea and Clinton
+454,Gramercy Park and Murray Hill
+455,Gramercy Park and Murray Hill
+458,Chelsea and Clinton
+459,Chelsea and Clinton
+460,Greenpoint
+461,Gramercy Park and Murray Hill
+462,Chelsea and Clinton
+464,Gramercy Park and Murray Hill
+465,Chelsea and Clinton
+466,Chelsea and Clinton
+467,Central Brooklyn
+468,Chelsea and Clinton
+470,Chelsea and Clinton
+471,Greenpoint
+472,Gramercy Park and Murray Hill
+473,Greenwich Village and Soho
+474,East Harlem
+474,East Harlem
+476,Gramercy Park and Murray Hill
+477,Chelsea and Clinton
+477,Chelsea and Clinton
+478,Chelsea and Clinton
+478,Chelsea and Clinton
+479,Chelsea and Clinton
+480,Chelsea and Clinton
+481,Greenpoint
+482,Chelsea and Clinton
+483,Lower East Side
+484,Chelsea and Clinton
+485,Gramercy Park and Murray Hill
+485,Chelsea and Clinton
+486,Chelsea and Clinton
+487,Lower East Side
+487,Lower East Side
+488,Chelsea and Clinton
+489,Chelsea and Clinton
+490,Chelsea and Clinton
+490,Chelsea and Clinton
+491,Gramercy Park and Murray Hill
+491,Gramercy Park and Murray Hill
+492,Chelsea and Clinton
+493,Chelsea and Clinton
+494,Gramercy Park and Murray Hill
+495,Chelsea and Clinton
+496,Lower East Side
+497,Lower East Side
+497,Gramercy Park and Murray Hill
+498,Chelsea and Clinton
+499,Inwood and Washington Heights
+500,Chelsea and Clinton
+501,Gramercy Park and Murray Hill
+502,Lower East Side
+502,Lower East Side
+503,Lower East Side
+504,Lower East Side
+504,Lower East Side
+505,Chelsea and Clinton
+505,Chelsea and Clinton
+507,Gramercy Park and Murray Hill
+508,Chelsea and Clinton
+508,Chelsea and Clinton
+513,Chelsea and Clinton
+513,Chelsea and Clinton
+514,Chelsea and Clinton
+515,Chelsea and Clinton
+516,Gramercy Park and Murray Hill
+517,Central Harlem
+517,Gramercy Park and Murray Hill
+518,Gramercy Park and Murray Hill
+519,Central Harlem
+519,Gramercy Park and Murray Hill
+520,Chelsea and Clinton
+522,Gramercy Park and Murray Hill
+523,Chelsea and Clinton
+524,Chelsea and Clinton
+525,Chelsea and Clinton
+525,Chelsea and Clinton
+526,Gramercy Park and Murray Hill
+528,Gramercy Park and Murray Hill
+528,Lower East Side
+529,Chelsea and Clinton
+530,Chelsea and Clinton
+531,Lower East Side
+533,Chelsea and Clinton
+534,Lower Manhattan
+536,Lower East Side
+540,Central Harlem
+545,Gramercy Park and Murray Hill
+545,Gramercy Park and Murray Hill
+546,Gramercy Park and Murray Hill
+2000,Northwest Brooklyn
+2002,Greenpoint
+2003,Lower East Side
+2008,Lower Manhattan
+2009,Lower Manhattan
+2010,Greenwich Village and Soho
+2012,Gramercy Park and Murray Hill
+2017,Gramercy Park and Murray Hill
+2021,Chelsea and Clinton
+2023,Gramercy Park and Murray Hill
+3002,Lower Manhattan
+3040,Northwest Brooklyn
+3041,Central Brooklyn
+3042,East New York and New Lots
+3043,Bushwick and Williamsburg
+3044,Central Brooklyn
+3046,Central Brooklyn
+3047,Central Brooklyn
+3048,Central Brooklyn
+3049,Central Brooklyn
+3050,Bushwick and Williamsburg
+3052,Bushwick and Williamsburg
+3053,Central Brooklyn
+3054,Bushwick and Williamsburg
+3055,Central Brooklyn
+3056,Central Brooklyn
+3057,Bushwick and Williamsburg
+3058,Bushwick and Williamsburg
+3059,Bushwick and Williamsburg
+3060,Bushwick and Williamsburg
+3061,Bushwick and Williamsburg
+3062,Bushwick and Williamsburg
+3063,Southern Brooklyn
+3064,Bushwick and Williamsburg
+3065,Greenpoint
+3066,Central Brooklyn
+3067,East New York and New Lots
+3068,Greenpoint
+3069,Bushwick and Williamsburg
+3070,Bushwick and Williamsburg
+3071,Bushwick and Williamsburg
+3072,Greenpoint
+3074,Bushwick and Williamsburg
+3076,Bushwick and Williamsburg
+3077,Greenpoint
+3078,East New York and New Lots
+3080,Greenpoint
+3081,Bushwick and Williamsburg
+3082,Greenpoint
+3083,Greenpoint
+3086,Greenpoint
+3087,Greenpoint
+3088,Greenpoint
+3091,Greenpoint
+3094,Greenpoint
+3095,Greenpoint
+3096,Greenpoint
+3100,Greenpoint
+3101,Greenpoint
+3102,Greenpoint
+3105,Greenpoint
+3106,Greenpoint
+3108,Greenpoint
+3109,Greenpoint
+3110,Greenpoint
+3110,Greenpoint
+3112,Greenpoint
+3113,Greenpoint
+3115,Greenpoint
+3116,Greenpoint
+3117,Greenpoint
+3118,Long Island City
+3119,Long Island City
+3121,Northwest Queens
+3122,Long Island City
+3123,Northwest Queens
+3124,Northwest Queens
+3125,Northwest Queens
+3126,Northwest Queens
+3127,Long Island City
+3128,Northwest Queens
+3129,Northwest Queens
+3130,Northwest Queens
+3131,Upper East Side
+3132,Gramercy Park and Murray Hill
+3134,Upper East Side
+3135,Upper East Side
+3136,East Harlem
+3137,Upper East Side
+3139,Upper East Side
+3140,Upper East Side
+3141,East Harlem
+3142,Upper East Side
+3142,Upper East Side
+3143,Upper East Side
+3144,Upper East Side
+3145,Upper East Side
+3146,Upper East Side
+3147,Upper East Side
+3148,Upper East Side
+3150,Upper East Side
+3151,Upper East Side
+3152,Upper East Side
+3153,Upper East Side
+3154,Upper East Side
+3155,Upper East Side
+3156,Upper East Side
+3157,Upper East Side
+3158,Upper West Side
+3159,Upper West Side
+3160,Upper West Side
+3161,Upper West Side
+3162,Upper West Side
+3163,Upper West Side
+3164,Upper West Side
+3165,Upper West Side
+3166,West Side
+3167,Upper West Side
+3168,Upper West Side
+3169,Upper West Side
+3170,Upper West Side
+3171,Upper West Side
+3172,Upper West Side
+3173,West Side
+3175,Upper West Side
+3175,Upper West Side
+3177,Upper West Side
+3178,Upper West Side
+3179,Bushwick and Williamsburg
+3182,Northwest Brooklyn
+3221,Northwest Queens
+3223,Gramercy Park and Murray Hill
+3226,Upper West Side
+3231,Upper East Side
+3232,Northwest Brooklyn
+3233,Gramercy Park and Murray Hill
+3233,East Harlem
+3235,Gramercy Park and Murray Hill
+3236,Chelsea and Clinton
+3241,Central Brooklyn
+3242,Northwest Brooklyn
+3243,Gramercy Park and Murray Hill
+3244,Lower East Side
+3245,Lower East Side
+3246,Northwest Brooklyn
+3249,Central Brooklyn
+3250,Lower East Side
+3254,Lower Manhattan
+3255,Chelsea and Clinton
+3256,Tribeca
+3258,Chelsea and Clinton
+3259,Chelsea and Clinton
+3260,Lower East Side
+3263,Lower East Side
+3282,Upper East Side
+3283,Upper West Side
+3284,Upper East Side
+3285,Upper West Side
+3286,Upper East Side
+3287,Upper West Side
+3288,Upper East Side
+3289,Upper West Side
+3290,Upper East Side
+3293,Upper West Side
+3294,Upper East Side
+3295,Upper West Side
+3296,Upper East Side
+3297,Northwest Brooklyn
+3298,Northwest Brooklyn
+3300,Northwest Brooklyn
+3301,Upper West Side
+3302,Upper West Side
+3303,Northwest Brooklyn
+3304,Northwest Brooklyn
+3305,Upper East Side
+3305,Upper East Side
+3306,Northwest Brooklyn
+3307,Upper West Side
+3308,Northwest Brooklyn
+3310,Northwest Brooklyn
+3311,Northwest Brooklyn
+3312,Upper East Side
+3313,Northwest Brooklyn
+3314,Upper West Side
+3315,Northwest Brooklyn
+3317,Northwest Brooklyn
+3318,Upper East Side
+3319,Northwest Brooklyn
+3320,Upper West Side
+3321,Northwest Brooklyn
+3322,Northwest Brooklyn
+3323,Upper West Side
+3324,Northwest Brooklyn
+3325,Upper East Side
+3326,Northwest Brooklyn
+3327,East Harlem
+3328,Upper West Side
+3329,Northwest Brooklyn
+3330,Northwest Brooklyn
+3331,Upper West Side
+3332,Northwest Brooklyn
+3333,Northwest Brooklyn
+3335,Northwest Brooklyn
+3337,Northwest Brooklyn
+3338,Upper East Side
+3339,Northwest Brooklyn
+3340,Northwest Brooklyn
+3341,Upper West Side
+3342,Northwest Brooklyn
+3343,Upper West Side
+3344,Northwest Brooklyn
+3345,Central Harlem
+3346,Northwest Brooklyn
+3347,Northwest Brooklyn
+3348,Northwest Brooklyn
+3349,Northwest Brooklyn
+3350,Upper West Side
+3350,Upper West Side
+3351,East Harlem
+3352,Northwest Brooklyn
+3354,Northwest Brooklyn
+3355,Upper East Side
+3356,Upper West Side
+3357,Upper West Side
+3358,Northwest Brooklyn
+3359,Upper East Side
+3360,Upper West Side
+3361,Northwest Brooklyn
+3362,Upper East Side
+3363,East Harlem
+3364,Northwest Brooklyn
+3365,Northwest Brooklyn
+3366,Upper West Side
+3367,East Harlem
+3367,East Harlem
+3368,Southwest Brooklyn
+3369,Upper East Side
+3370,Upper East Side
+3371,Northwest Brooklyn
+3372,Upper East Side
+3373,Northwest Brooklyn
+3374,Central Harlem
+3374,Central Harlem
+3375,East Harlem
+3376,Upper East Side
+3377,Northwest Brooklyn
+3378,Upper East Side
+3379,East Harlem
+3381,Northwest Brooklyn
+3382,Northwest Brooklyn
+3382,Northwest Brooklyn
+3383,Upper West Side
+3384,Northwest Brooklyn
+3386,Northwest Brooklyn
+3387,East Harlem
+3388,Northwest Brooklyn
+3389,Northwest Brooklyn
+3390,East Harlem
+3391,East Harlem
+3392,Northwest Brooklyn
+3393,Northwest Brooklyn
+3394,Northwest Brooklyn
+3395,Northwest Brooklyn
+3396,Northwest Brooklyn
+3397,Northwest Brooklyn
+3398,Northwest Brooklyn
+3399,Northwest Brooklyn
+3400,East Harlem
+3401,Northwest Brooklyn
+3402,Northwest Brooklyn
+3403,Northwest Brooklyn
+3404,Northwest Brooklyn
+3405,Northwest Brooklyn
+3407,Northwest Brooklyn
+3408,Northwest Brooklyn
+3409,Central Brooklyn
+3410,Northwest Brooklyn
+3411,Northwest Brooklyn
+3412,Northwest Brooklyn
+3413,Northwest Brooklyn
+3414,Central Brooklyn
+3415,Northwest Brooklyn
+3416,Northwest Brooklyn
+3417,Northwest Brooklyn
+3418,Central Brooklyn
+3419,Northwest Brooklyn
+3420,Northwest Brooklyn
+3422,Northwest Brooklyn
+3423,Northwest Brooklyn
+3424,East Harlem
+3425,East Harlem
+3427,Greenwich Village and Soho
+3429,Northwest Brooklyn
+3430,Greenpoint
+3431,Gramercy Park and Murray Hill
+3432,Northwest Brooklyn
+3434,Upper West Side
+3435,Greenwich Village and Soho
+3437,Upper West Side
+3440,Northwest Brooklyn
+3441,Gramercy Park and Murray Hill
+3443,Chelsea and Clinton
+3449,Greenpoint
+3452,Greenpoint
+3453,Greenpoint
+3454,Greenpoint
+3456,Greenpoint
+3457,Gramercy Park and Murray Hill
+3458,Chelsea and Clinton
+3459,Gramercy Park and Murray Hill
+3461,Lower Manhattan
+3462,Gramercy Park and Murray Hill
+3463,Lower East Side
+3466,Chelsea and Clinton
+3467,Greenwich Village and Soho
+3469,Greenpoint
+3472,Greenwich Village and Soho
+3474,Greenwich Village and Soho
+3477,Sunset Park
+3478,Sunset Park
+3479,Lower Manhattan
+3486,Northwest Brooklyn
+3489,Lower Manhattan
+3490,East Harlem
+3491,East Harlem
+3492,East Harlem
+3493,East Harlem
+3494,East Harlem
+3495,East Harlem
+3496,East Harlem
+3497,East Harlem
+3498,East Harlem
+3499,East Harlem
+3500,East Harlem
+3501,East Harlem
+3502,East Harlem
+3503,Central Harlem
+3504,East Harlem
+3505,Central Harlem
+3506,Central Harlem
+3507,Central Harlem
+3508,Central Harlem
+3509,Central Harlem
+3510,Central Harlem
+3511,Central Harlem
+3512,Northwest Queens
+3513,Northwest Queens
+3514,Northwest Queens
+3515,Northwest Queens
+3516,Northwest Queens
+3517,Northwest Queens
+3518,Central Harlem
+3520,Central Harlem
+3521,Central Harlem
+3522,Northwest Queens
+3523,Northwest Queens
+3524,Northwest Queens
+3525,Northwest Queens
+3526,Northwest Queens
+3527,East Harlem
+3528,Northwest Queens
+3529,Central Harlem
+3530,Northwest Queens
+3531,Central Harlem
+3532,Northwest Queens
+3533,Central Harlem
+3534,Central Harlem
+3535,Central Harlem
+3536,Central Harlem
+3537,Central Brooklyn
+3538,Upper West Side
+3539,Central Harlem
+3540,Central Harlem
+3541,Central Harlem
+3543,Central Harlem
+3544,Central Brooklyn
+3545,Central Harlem
+3546,Central Brooklyn
+3549,Central Brooklyn
+3551,East Harlem
+3552,Upper West Side
+3553,Central Harlem
+3554,Northwest Queens
+3555,Northwest Queens
+3556,Northwest Queens
+3557,Northwest Queens
+3558,Central Brooklyn
+3559,Northwest Queens
+3560,Northwest Queens
+3561,Northwest Queens
+3562,Central Brooklyn
+3563,Northwest Queens
+3564,Northwest Queens
+3565,Northwest Queens
+3566,Northwest Queens
+3567,Northwest Queens
+3568,Northwest Queens
+3569,Central Brooklyn
+3570,Northwest Queens
+3571,Central Brooklyn
+3572,Northwest Queens
+3573,Northwest Queens
+3574,Central Brooklyn
+3575,Northwest Queens
+3576,Central Brooklyn
+3577,Northwest Queens
+3578,Central Brooklyn
+3579,Central Brooklyn
+3580,Central Brooklyn
+3581,Central Brooklyn
+3582,Central Brooklyn
+3583,Central Brooklyn
+3584,Central Brooklyn
+3585,Flatbush
+3586,Northwest Queens
+3587,Flatbush
+3588,Northwest Queens
+3589,West Queens
+3590,Flatbush
+3591,Northwest Queens
+3592,Northwest Queens
+3593,Northwest Queens
+3595,Northwest Queens
+3596,Flatbush
+3597,Northwest Queens
+3598,Northwest Queens
+3599,Flatbush
+3601,Flatbush
+3602,West Queens
+3603,West Queens
+3604,Flatbush
+3605,West Queens
+3606,Northwest Queens
+3607,Northwest Queens
+3608,Long Island City
+3609,Northwest Queens
+3610,Northwest Queens
+3611,Northwest Queens
+3612,Northwest Queens
+3613,Long Island City
+3614,Northwest Queens
+3615,Northwest Queens
+3616,Northwest Queens
+3617,Northwest Queens
+3618,Northwest Queens
+3619,Northwest Queens
+3620,Northwest Queens
+3621,Northwest Queens
+3622,East Harlem
+3623,Central Harlem
+3628,Central Harlem
+3629,Central Harlem
+3630,Central Harlem
+3630,Central Harlem
+3631,Flatbush
+3637,Central Brooklyn
+3641,Gramercy Park and Murray Hill
+3646,Northwest Queens
+3647,Northwest Queens
+3648,Bushwick and Williamsburg
+3649,Central Harlem
+3653,Northwest Queens
+3654,Northwest Queens
+3656,Lower East Side
+3656,Lower East Side
+3658,Chelsea and Clinton
+3659,Chelsea and Clinton
+3660,Chelsea and Clinton
+3661,Flatbush
+3662,West Queens
+3663,Northwest Brooklyn
+3664,Greenwich Village and Soho
+3668,Greenpoint
+3671,Upper East Side
+3673,Central Brooklyn
+3674,Northwest Brooklyn
+3675,East Harlem
+3676,Northwest Brooklyn
+3680,Gramercy Park and Murray Hill
+3684,Greenwich Village and Soho
+3686,Greenwich Village and Soho
+3687,Gramercy Park and Murray Hill
+3689,Upper West Side
+3690,Greenwich Village and Soho
+3690,Lower Manhattan
+3691,Northwest Queens
+3697,West Side
+3699,Chelsea and Clinton
+3701,Lower Manhattan
+3704,Northwest Queens
+3707,Central Harlem
+3708,Chelsea and Clinton
+3709,Chelsea and Clinton
+3711,Lower East Side
+3711,Lower East Side
+3712,Chelsea and Clinton
+3714,Greenpoint
+3715,Greenpoint
+3716,Northwest Queens
+3718,Lower East Side
+3719,Northwest Brooklyn
+3720,Northwest Brooklyn
+3721,Northwest Queens
+3723,Northwest Brooklyn
+3724,Chelsea and Clinton
+3725,East Harlem
+3726,Long Island City
+3727,Greenpoint
+3727,Greenpoint
+3728,Northwest Brooklyn
+3733,Lower East Side
+3734,Gramercy Park and Murray Hill
+3737,Lower East Side
+3739,Greenwich Village and Soho
+3740,Greenwich Village and Soho
+3744,Lower East Side
+3745,Northwest Queens
+3746,Greenwich Village and Soho
+3747,Upper East Side
+3749,Gramercy Park and Murray Hill
+3755,Northwest Brooklyn
+3756,Bushwick and Williamsburg
+3757,Bushwick and Williamsburg
+3758,Bushwick and Williamsburg
+3759,Bushwick and Williamsburg
+3759,Bushwick and Williamsburg
+3760,Bushwick and Williamsburg
+3761,Bushwick and Williamsburg
+3762,Northwest Brooklyn
+3763,West Central Queens
+3764,East New York and New Lots
+3765,Greenpoint
+3766,Greenpoint
+3767,Greenpoint
+3768,Greenpoint
+3769,Bushwick and Williamsburg
+3770,Bushwick and Williamsburg
+3771,Bushwick and Williamsburg
+3772,Greenpoint
+3773,Bushwick and Williamsburg
+3774,Bushwick and Williamsburg
+3775,Bushwick and Williamsburg
+3776,Bushwick and Williamsburg
+3777,Bushwick and Williamsburg
+3778,Bushwick and Williamsburg
+3779,Bushwick and Williamsburg
+3780,Bushwick and Williamsburg
+3781,Bushwick and Williamsburg
+3782,Northwest Brooklyn
+3783,Lower Manhattan
+3785,Chelsea and Clinton
+3788,Lower East Side
+3789,East New York and New Lots
+3790,Northwest Brooklyn
+3793,Lower East Side
+3795,Northwest Brooklyn
+3798,Chelsea and Clinton
+3799,Chelsea and Clinton
+3803,Flatbush
+3804,Northwest Brooklyn
+3805,Upper East Side
+3809,Chelsea and Clinton
+3809,Chelsea and Clinton
+3810,Upper West Side
+3811,Northwest Queens
+3812,Lower East Side
+3814,Gramercy Park and Murray Hill
+3815,Gramercy Park and Murray Hill
+3816,Greenpoint
+3817,Greenpoint
+3818,Greenpoint
+3819,Greenpoint
+3820,Bushwick and Williamsburg
+3821,Bushwick and Williamsburg
+3822,Bushwick and Williamsburg
+3823,Bushwick and Williamsburg
+3824,East New York and New Lots
+3825,East New York and New Lots
+3826,East New York and New Lots
+3827,Central Brooklyn
+3828,East New York and New Lots
+3829,East New York and New Lots
+3830,East New York and New Lots
+3831,Bushwick and Williamsburg
+3832,Bushwick and Williamsburg
+3833,Bushwick and Williamsburg
+3834,Bushwick and Williamsburg
+3835,Bushwick and Williamsburg
+3836,Bushwick and Williamsburg
+3837,Bushwick and Williamsburg
+3838,Bushwick and Williamsburg
+3839,Bushwick and Williamsburg
+3840,Bushwick and Williamsburg
+3841,Bushwick and Williamsburg
+3842,Bushwick and Williamsburg
+3843,Bushwick and Williamsburg
+3844,West Central Queens
+3845,Bushwick and Williamsburg
+3846,Bushwick and Williamsburg
+3847,Bushwick and Williamsburg
+3848,Bushwick and Williamsburg
+3849,Bushwick and Williamsburg
+3850,Bushwick and Williamsburg
+3851,Southwest Queens
+3852,Bushwick and Williamsburg
+3853,Bushwick and Williamsburg
+3854,Greenpoint
+3854,Greenpoint
+3855,Greenpoint
+3856,Greenpoint
+3857,Greenpoint
+3858,Greenpoint
+3859,Greenpoint
+3860,Bushwick and Williamsburg
+3861,Bushwick and Williamsburg
+3862,Bushwick and Williamsburg
+3863,Bushwick and Williamsburg
+3864,East New York and New Lots
+3865,East New York and New Lots
+3866,East New York and New Lots
+3867,Central Brooklyn
+3868,Bushwick and Williamsburg
+3869,Bushwick and Williamsburg
+3870,Bushwick and Williamsburg
+3871,East New York and New Lots
+3872,West Central Queens
+3873,West Central Queens
+3874,West Central Queens
+3875,West Central Queens
+3876,West Central Queens
+3877,West Central Queens
+3878,West Central Queens
+3879,Bushwick and Williamsburg
+3880,West Central Queens
+3881,Central Harlem
+3882,West Central Queens
+3883,West Central Queens
+3884,West Central Queens
+3885,West Central Queens
+3886,West Central Queens
+3887,West Central Queens
+3888,West Central Queens
+3890,Bushwick and Williamsburg
+3891,Bushwick and Williamsburg
+3892,Northwest Queens
+3893,Central Brooklyn
+3895,Bushwick and Williamsburg
+3896,West Central Queens
+3897,West Central Queens
+3898,Upper East Side
+3899,Greenpoint
+3900,Greenpoint
+3901,Bushwick and Williamsburg
+3902,West Central Queens
+3903,Bushwick and Williamsburg
+3907,Bushwick and Williamsburg
+3909,West Central Queens
+3910,Bushwick and Williamsburg
+3911,Northwest Brooklyn
